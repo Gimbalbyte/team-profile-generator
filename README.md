@@ -13,6 +13,8 @@
 - [Questions](#questions)
 ## Installation
 💾 npm install inquirer
+## Demo
+🎬 https://youtu.be/STLCiNz4_h8
 ## Usage
 💻 After cloning the repo and installing the required npm packages, use the command line to navigate to the root of the application and run node index. Follow prompts to add team members to your roster. Only one manager can be added per team. Your generated team roster page will be created in the ./dist folder.
 ## License
